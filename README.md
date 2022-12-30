@@ -9,8 +9,8 @@ I've been doing web development since 2018. I love learning web platform topics 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [erfanmirzapour1@gmail.com](mailto:erfanmirzapour1@gmail.com)
 * 🚀  I'm currently working on [Alibaba Travels](http://alibaba.ir)
-* 🧠  I'm learning tRPC, MongoDB, PostgreSQL, Docker, CI/CD, Svelte
-* ⚡  I love playing football, watching movies and tv-series, playing board games, video games and poker.
+* 🧠  I'm learning tRPC, MongoDB, PostgreSQL, Docker, CI/CD and Svelte.
+* ⚡  I love playing football, watching movies and tv-series, playing board games, video games.
 
 ### Skills
 
